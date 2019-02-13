@@ -1,0 +1,26 @@
+{
+  "name": "risk-cards",
+  "version": "0.1.0",
+  "description": "Risk cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoscopelliti/risk-cards.git"
+  },
+  "keywords": [
+    "risk",
+    "cards",
+    "risk cards",
+    "risiko",
+    "risiko cards"
+  ],
+  "author": "Bruno Scopelliti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoscopelliti/risk-cards/issues"
+  },
+  "homepage": "https://github.com/brunoscopelliti/risk-cards#readme"
+}
