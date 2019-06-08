@@ -17,6 +17,7 @@ A card is like
   continent: "europe",
   region: "southern-europe",
   type: "cavalier",
+  points: 6
 }
 ```
 
