@@ -1,6 +1,6 @@
 {
-  "name": "risk-cards",
-  "version": "0.1.0",
+  "name": "@riskgame/cards",
+  "version": "1.0.0",
   "description": "Risk cards",
   "main": "index.js",
   "scripts": {
